@@ -19,3 +19,7 @@ Camera  | 5MPx, LED Flash
 ![Android One](http://news.bbcimg.co.uk/media/images/77588000/jpg/_77588715_09e78d0d-b02b-418e-8bd0-a4176c985978.jpg "All three android one devices")
 
 This branch is for building CyanogenMod 11 (or Android KitKat 4.4 AOSP based roms) ROMS.
+
+* vendor https://github.com/varunchitre15/android_vendor_google_sprout vendor/google/sprout
+* kernel https://github.com/varunchitre15/android_kernel_mediatek_sprout.git -b cm-11.0 kernel/mediatek/sprout
+* device https://github.com/MTK-MT6582/android_device_google_sprout.git -b cm-11.0 device/google/sprout
